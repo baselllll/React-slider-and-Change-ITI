@@ -1,0 +1,11 @@
+.changeform input{
+    margin-left: 700px;
+    text-align: center;
+    font-size: 40px;
+}
+input[type="button"],p{
+    font-size: 60px;
+    margin-left: 850px;
+    width: 200px;
+    margin-top: 20px;
+}

@@ -1,0 +1,21 @@
+.operations{
+    margin-left: 700px;
+}
+.operations button {
+    color: black;
+    background-color: whitesmoke;
+    font-size: 40px;
+    margin-left: 10px;
+    border-radius: 10px;
+    box-shadow: 10px 20px sandybrown;
+}
+.operations button:hover{
+    background-color: blue;
+}
+.slider{
+    margin-left: 600px;
+}
+.slider img{
+    width: 800px;
+    border-radius: 20px;
+}
